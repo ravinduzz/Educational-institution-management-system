@@ -1,0 +1,75 @@
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.exe.config
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.exe
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EntityFramework.dll
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EntityFramework.xml
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Check.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Fee.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmStudent.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogin.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogins.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmMain.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmParents.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmSearchResult.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmStuDe.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmUsers.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.FullDe.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Properties.Resources.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.TecherReg.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Test.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.csproj.GenerateResource.Cache
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.exe
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Course.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.MangementStudent.resources
+E:\education\software engineering\Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.csprojResolveAssemblyReference.cache
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.exe.config
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.exe
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.exe
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EntityFramework.dll
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\bin\Debug\EntityFramework.xml
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.csprojResolveAssemblyReference.cache
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Check.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Course.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Fee.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmStudent.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogin.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogins.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmMain.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmParents.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmSearchResult.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmStuDe.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.frmUsers.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.FullDe.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.MangementStudent.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Properties.Resources.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.TecherReg.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.Test.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject\EsoftLastProject\obj\Debug\EsoftLastProject.csproj.GenerateResource.Cache
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\bin\Debug\EsoftLastProject.exe.config
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.exe
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\bin\Debug\EsoftLastProject.exe
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\bin\Debug\EsoftLastProject.pdb
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\bin\Debug\EntityFramework.dll
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\bin\Debug\EntityFramework.xml
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.csprojResolveAssemblyReference.cache
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.Check.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.Course.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.Fee.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmStudent.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogin.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmLogins.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmMain.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmParents.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmSearchResult.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmStuDe.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.frmUsers.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.FullDe.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.MangementStudent.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.Properties.Resources.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.TecherReg.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.Test.resources
+E:\education\software engineering\Before last project disign Esoft\Last Project\EsoftLastProject - tharushi\EsoftLastProject\obj\Debug\EsoftLastProject.csproj.GenerateResource.Cache
